@@ -12,9 +12,6 @@ It's a graphical calculator that can perform basic operations.
 - Add more math functions
 - Make the design prettier
 
-## Made by:
-A 16-year-old self-taught beginner who built this after 3 days of learning Python.
-
 ## Screenshot:
 ![Calculator Screenshot](screenshot.png)
 
